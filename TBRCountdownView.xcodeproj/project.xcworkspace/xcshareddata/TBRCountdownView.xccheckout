@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>42D353E6-9E8D-41E1-BFC2-A0FA2243BC0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TBRCountdownView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</key>
+		<string>luciano@techbrewers.com:/usr/repos/TBRCountdownView/</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TBRCountdownView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>luciano@techbrewers.com:/usr/repos/TBRCountdownView/</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TBRCountdownView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
