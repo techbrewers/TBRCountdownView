@@ -1,6 +1,6 @@
 //
-//  TBRCountdownViewTests.m
-//  TBRCountdownViewTests
+//  TBRCountdownViewExampleTests.m
+//  TBRCountdownViewExampleTests
 //
 //  Created by Luciano Marisi on 08/07/2014.
 //  Copyright (c) 2014 TechBrewers LTD. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface TBRCountdownViewTests : XCTestCase
+@interface TBRCountdownViewExampleTests : XCTestCase
 
 @end
 
-@implementation TBRCountdownViewTests
+@implementation TBRCountdownViewExampleTests
 
 - (void)setUp
 {

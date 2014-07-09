@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>42D353E6-9E8D-41E1-BFC2-A0FA2243BC0B</string>
+	<string>70215584-1C67-4319-BD82-218D46852CEE</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TBRCountdownView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</key>
-		<string>luciano@techbrewers.com:/usr/repos/TBRCountdownView/</string>
+		<key>9A3EF7DC-43A5-4824-9931-EE524DC40A22</key>
+		<string>https://github.com/techbrewers/TBRCountdownView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>TBRCountdownView.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</key>
+		<key>9A3EF7DC-43A5-4824-9931-EE524DC40A22</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>luciano@techbrewers.com:/usr/repos/TBRCountdownView/</string>
+	<string>https://github.com/techbrewers/TBRCountdownView.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</string>
+	<string>9A3EF7DC-43A5-4824-9931-EE524DC40A22</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>91F7DA26-2AB8-4C90-9259-3F40CD2779BA</string>
+			<string>9A3EF7DC-43A5-4824-9931-EE524DC40A22</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TBRCountdownView</string>
 		</dict>

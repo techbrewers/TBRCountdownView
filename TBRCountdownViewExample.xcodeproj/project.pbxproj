@@ -35,23 +35,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BF2B10CC196C044800EEBCA2 /* TBRCountdownView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TBRCountdownView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF2B10CC196C044800EEBCA2 /* TBRCountdownViewExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TBRCountdownViewExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF2B10CF196C044800EEBCA2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BF2B10D1196C044800EEBCA2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		BF2B10D3196C044800EEBCA2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		BF2B10D7196C044800EEBCA2 /* TBRCountdownView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TBRCountdownView-Info.plist"; sourceTree = "<group>"; };
+		BF2B10D7196C044800EEBCA2 /* TBRCountdownViewExample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TBRCountdownViewExample-Info.plist"; sourceTree = "<group>"; };
 		BF2B10D9196C044800EEBCA2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BF2B10DB196C044800EEBCA2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BF2B10DD196C044800EEBCA2 /* TBRCountdownView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TBRCountdownView-Prefix.pch"; sourceTree = "<group>"; };
+		BF2B10DD196C044800EEBCA2 /* TBRCountdownViewExample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TBRCountdownViewExample-Prefix.pch"; sourceTree = "<group>"; };
 		BF2B10DE196C044800EEBCA2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		BF2B10DF196C044800EEBCA2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		BF2B10E2196C044800EEBCA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BF2B10E4196C044800EEBCA2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		BF2B10E5196C044800EEBCA2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		BF2B10E7196C044800EEBCA2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		BF2B10ED196C044800EEBCA2 /* TBRCountdownViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TBRCountdownViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF2B10ED196C044800EEBCA2 /* TBRCountdownViewExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TBRCountdownViewExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF2B10EE196C044800EEBCA2 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		BF2B10F6196C044800EEBCA2 /* TBRCountdownViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TBRCountdownViewTests-Info.plist"; sourceTree = "<group>"; };
+		BF2B10F6196C044800EEBCA2 /* TBRCountdownViewExampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TBRCountdownViewExampleTests-Info.plist"; sourceTree = "<group>"; };
 		BF2B10F8196C044800EEBCA2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BF2B10FA196C044800EEBCA2 /* TBRCountdownViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TBRCountdownViewTests.m; sourceTree = "<group>"; };
 		BF2B1104196C05C900EEBCA2 /* TBRCountdownView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBRCountdownView.h; sourceTree = "<group>"; };
@@ -85,7 +85,7 @@
 		BF2B10C3196C044800EEBCA2 = {
 			isa = PBXGroup;
 			children = (
-				BF2B10D5196C044800EEBCA2 /* TBRCountdownView */,
+				BF2B10D5196C044800EEBCA2 /* TBRCountdownViewExample */,
 				BF2B10F4196C044800EEBCA2 /* TBRCountdownViewTests */,
 				BF2B10CE196C044800EEBCA2 /* Frameworks */,
 				BF2B10CD196C044800EEBCA2 /* Products */,
@@ -95,8 +95,8 @@
 		BF2B10CD196C044800EEBCA2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BF2B10CC196C044800EEBCA2 /* TBRCountdownView.app */,
-				BF2B10ED196C044800EEBCA2 /* TBRCountdownViewTests.xctest */,
+				BF2B10CC196C044800EEBCA2 /* TBRCountdownViewExample.app */,
+				BF2B10ED196C044800EEBCA2 /* TBRCountdownViewExampleTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -112,7 +112,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		BF2B10D5196C044800EEBCA2 /* TBRCountdownView */ = {
+		BF2B10D5196C044800EEBCA2 /* TBRCountdownViewExample */ = {
 			isa = PBXGroup;
 			children = (
 				BF2B10DE196C044800EEBCA2 /* AppDelegate.h */,
@@ -125,16 +125,16 @@
 				BF2B10E7196C044800EEBCA2 /* Images.xcassets */,
 				BF2B10D6196C044800EEBCA2 /* Supporting Files */,
 			);
-			path = TBRCountdownView;
+			path = TBRCountdownViewExample;
 			sourceTree = "<group>";
 		};
 		BF2B10D6196C044800EEBCA2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BF2B10D7196C044800EEBCA2 /* TBRCountdownView-Info.plist */,
+				BF2B10D7196C044800EEBCA2 /* TBRCountdownViewExample-Info.plist */,
 				BF2B10D8196C044800EEBCA2 /* InfoPlist.strings */,
 				BF2B10DB196C044800EEBCA2 /* main.m */,
-				BF2B10DD196C044800EEBCA2 /* TBRCountdownView-Prefix.pch */,
+				BF2B10DD196C044800EEBCA2 /* TBRCountdownViewExample-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -145,13 +145,14 @@
 				BF2B10FA196C044800EEBCA2 /* TBRCountdownViewTests.m */,
 				BF2B10F5196C044800EEBCA2 /* Supporting Files */,
 			);
-			path = TBRCountdownViewTests;
+			name = TBRCountdownViewTests;
+			path = TBRCountdownViewExampleTests;
 			sourceTree = "<group>";
 		};
 		BF2B10F5196C044800EEBCA2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BF2B10F6196C044800EEBCA2 /* TBRCountdownViewTests-Info.plist */,
+				BF2B10F6196C044800EEBCA2 /* TBRCountdownViewExampleTests-Info.plist */,
 				BF2B10F7196C044800EEBCA2 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -160,9 +161,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BF2B10CB196C044800EEBCA2 /* TBRCountdownView */ = {
+		BF2B10CB196C044800EEBCA2 /* TBRCountdownViewExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF2B10FE196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownView" */;
+			buildConfigurationList = BF2B10FE196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownViewExample" */;
 			buildPhases = (
 				BF2B10C8196C044800EEBCA2 /* Sources */,
 				BF2B10C9196C044800EEBCA2 /* Frameworks */,
@@ -172,14 +173,14 @@
 			);
 			dependencies = (
 			);
-			name = TBRCountdownView;
+			name = TBRCountdownViewExample;
 			productName = TBRCountdownView;
-			productReference = BF2B10CC196C044800EEBCA2 /* TBRCountdownView.app */;
+			productReference = BF2B10CC196C044800EEBCA2 /* TBRCountdownViewExample.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BF2B10EC196C044800EEBCA2 /* TBRCountdownViewTests */ = {
+		BF2B10EC196C044800EEBCA2 /* TBRCountdownViewExampleTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF2B1101196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownViewTests" */;
+			buildConfigurationList = BF2B1101196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownViewExampleTests" */;
 			buildPhases = (
 				BF2B10E9196C044800EEBCA2 /* Sources */,
 				BF2B10EA196C044800EEBCA2 /* Frameworks */,
@@ -190,9 +191,9 @@
 			dependencies = (
 				BF2B10F3196C044800EEBCA2 /* PBXTargetDependency */,
 			);
-			name = TBRCountdownViewTests;
+			name = TBRCountdownViewExampleTests;
 			productName = TBRCountdownViewTests;
-			productReference = BF2B10ED196C044800EEBCA2 /* TBRCountdownViewTests.xctest */;
+			productReference = BF2B10ED196C044800EEBCA2 /* TBRCountdownViewExampleTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -209,7 +210,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BF2B10C7196C044800EEBCA2 /* Build configuration list for PBXProject "TBRCountdownView" */;
+			buildConfigurationList = BF2B10C7196C044800EEBCA2 /* Build configuration list for PBXProject "TBRCountdownViewExample" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -222,8 +223,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BF2B10CB196C044800EEBCA2 /* TBRCountdownView */,
-				BF2B10EC196C044800EEBCA2 /* TBRCountdownViewTests */,
+				BF2B10CB196C044800EEBCA2 /* TBRCountdownViewExample */,
+				BF2B10EC196C044800EEBCA2 /* TBRCountdownViewExampleTests */,
 			);
 		};
 /* End PBXProject section */
@@ -274,7 +275,7 @@
 /* Begin PBXTargetDependency section */
 		BF2B10F3196C044800EEBCA2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BF2B10CB196C044800EEBCA2 /* TBRCountdownView */;
+			target = BF2B10CB196C044800EEBCA2 /* TBRCountdownViewExample */;
 			targetProxy = BF2B10F2196C044800EEBCA2 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -339,7 +340,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
@@ -371,7 +372,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -383,9 +384,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TBRCountdownView/TBRCountdownView-Prefix.pch";
-				INFOPLIST_FILE = "TBRCountdownView/TBRCountdownView-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "TBRCountdownViewExample/TBRCountdownViewExample-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/TBRCountdownViewExample/TBRCountdownViewExample-Info.plist";
+				PRODUCT_NAME = TBRCountdownViewExample;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -396,9 +397,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TBRCountdownView/TBRCountdownView-Prefix.pch";
-				INFOPLIST_FILE = "TBRCountdownView/TBRCountdownView-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "TBRCountdownViewExample/TBRCountdownViewExample-Prefix.pch";
+				INFOPLIST_FILE = "$(SRCROOT)/TBRCountdownViewExample/TBRCountdownViewExample-Info.plist";
+				PRODUCT_NAME = TBRCountdownViewExample;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -418,8 +419,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "TBRCountdownViewTests/TBRCountdownViewTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "TBRCountdownViewTests/TBRCountdownViewExampleTests-Info.plist";
+				PRODUCT_NAME = TBRCountdownViewExampleTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -436,8 +437,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TBRCountdownView/TBRCountdownView-Prefix.pch";
-				INFOPLIST_FILE = "TBRCountdownViewTests/TBRCountdownViewTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "TBRCountdownViewTests/TBRCountdownViewExampleTests-Info.plist";
+				PRODUCT_NAME = TBRCountdownViewExampleTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -446,7 +447,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BF2B10C7196C044800EEBCA2 /* Build configuration list for PBXProject "TBRCountdownView" */ = {
+		BF2B10C7196C044800EEBCA2 /* Build configuration list for PBXProject "TBRCountdownViewExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BF2B10FC196C044800EEBCA2 /* Debug */,
@@ -455,21 +456,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF2B10FE196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownView" */ = {
+		BF2B10FE196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownViewExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BF2B10FF196C044800EEBCA2 /* Debug */,
 				BF2B1100196C044800EEBCA2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		BF2B1101196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownViewTests" */ = {
+		BF2B1101196C044800EEBCA2 /* Build configuration list for PBXNativeTarget "TBRCountdownViewExampleTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BF2B1102196C044800EEBCA2 /* Debug */,
 				BF2B1103196C044800EEBCA2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
