@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F82707C196DECB400A6657D /* TBRCountdownView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F82707B196DECB400A6657D /* TBRCountdownView.m */; };
 		BF2B10D0196C044800EEBCA2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF2B10CF196C044800EEBCA2 /* Foundation.framework */; };
 		BF2B10D2196C044800EEBCA2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF2B10D1196C044800EEBCA2 /* CoreGraphics.framework */; };
 		BF2B10D4196C044800EEBCA2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF2B10D3196C044800EEBCA2 /* UIKit.framework */; };
@@ -21,7 +22,6 @@
 		BF2B10F1196C044800EEBCA2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF2B10D3196C044800EEBCA2 /* UIKit.framework */; };
 		BF2B10F9196C044800EEBCA2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BF2B10F7196C044800EEBCA2 /* InfoPlist.strings */; };
 		BF2B10FB196C044800EEBCA2 /* TBRCountdownViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BF2B10FA196C044800EEBCA2 /* TBRCountdownViewTests.m */; };
-		BF2B1106196C05C900EEBCA2 /* TBRCountdownView.m in Sources */ = {isa = PBXBuildFile; fileRef = BF2B1105196C05C900EEBCA2 /* TBRCountdownView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F82707A196DECB400A6657D /* TBRCountdownView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBRCountdownView.h; sourceTree = "<group>"; };
+		4F82707B196DECB400A6657D /* TBRCountdownView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBRCountdownView.m; sourceTree = "<group>"; };
 		BF2B10CC196C044800EEBCA2 /* TBRCountdownViewExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TBRCountdownViewExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF2B10CF196C044800EEBCA2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BF2B10D1196C044800EEBCA2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -54,8 +56,6 @@
 		BF2B10F6196C044800EEBCA2 /* TBRCountdownViewExampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TBRCountdownViewExampleTests-Info.plist"; sourceTree = "<group>"; };
 		BF2B10F8196C044800EEBCA2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BF2B10FA196C044800EEBCA2 /* TBRCountdownViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TBRCountdownViewTests.m; sourceTree = "<group>"; };
-		BF2B1104196C05C900EEBCA2 /* TBRCountdownView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TBRCountdownView.h; sourceTree = "<group>"; };
-		BF2B1105196C05C900EEBCA2 /* TBRCountdownView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TBRCountdownView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +82,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4F827079196DECB400A6657D /* TBRCountdownView */ = {
+			isa = PBXGroup;
+			children = (
+				4F82707A196DECB400A6657D /* TBRCountdownView.h */,
+				4F82707B196DECB400A6657D /* TBRCountdownView.m */,
+			);
+			path = TBRCountdownView;
+			sourceTree = SOURCE_ROOT;
+		};
 		BF2B10C3196C044800EEBCA2 = {
 			isa = PBXGroup;
 			children = (
@@ -120,8 +129,7 @@
 				BF2B10E1196C044800EEBCA2 /* Main.storyboard */,
 				BF2B10E4196C044800EEBCA2 /* ViewController.h */,
 				BF2B10E5196C044800EEBCA2 /* ViewController.m */,
-				BF2B1104196C05C900EEBCA2 /* TBRCountdownView.h */,
-				BF2B1105196C05C900EEBCA2 /* TBRCountdownView.m */,
+				4F827079196DECB400A6657D /* TBRCountdownView */,
 				BF2B10E7196C044800EEBCA2 /* Images.xcassets */,
 				BF2B10D6196C044800EEBCA2 /* Supporting Files */,
 			);
@@ -256,7 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF2B10E6196C044800EEBCA2 /* ViewController.m in Sources */,
-				BF2B1106196C05C900EEBCA2 /* TBRCountdownView.m in Sources */,
+				4F82707C196DECB400A6657D /* TBRCountdownView.m in Sources */,
 				BF2B10E0196C044800EEBCA2 /* AppDelegate.m in Sources */,
 				BF2B10DC196C044800EEBCA2 /* main.m in Sources */,
 			);
