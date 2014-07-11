@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BF2B10CB196C044800EEBCA2"
-               BuildableName = "TBRCountdownView.app"
-               BlueprintName = "TBRCountdownView"
-               ReferencedContainer = "container:TBRCountdownView.xcodeproj">
+               BuildableName = "TBRCountdownViewExample.app"
+               BlueprintName = "TBRCountdownViewExample"
+               ReferencedContainer = "container:TBRCountdownViewExample.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BF2B10EC196C044800EEBCA2"
-               BuildableName = "TBRCountdownViewTests.xctest"
-               BlueprintName = "TBRCountdownViewTests"
-               ReferencedContainer = "container:TBRCountdownView.xcodeproj">
+               BuildableName = "TBRCountdownViewExampleTests.xctest"
+               BlueprintName = "TBRCountdownViewExampleTests"
+               ReferencedContainer = "container:TBRCountdownViewExample.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF2B10CB196C044800EEBCA2"
-            BuildableName = "TBRCountdownView.app"
-            BlueprintName = "TBRCountdownView"
-            ReferencedContainer = "container:TBRCountdownView.xcodeproj">
+            BuildableName = "TBRCountdownViewExample.app"
+            BlueprintName = "TBRCountdownViewExample"
+            ReferencedContainer = "container:TBRCountdownViewExample.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF2B10CB196C044800EEBCA2"
-            BuildableName = "TBRCountdownView.app"
-            BlueprintName = "TBRCountdownView"
-            ReferencedContainer = "container:TBRCountdownView.xcodeproj">
+            BuildableName = "TBRCountdownViewExample.app"
+            BlueprintName = "TBRCountdownViewExample"
+            ReferencedContainer = "container:TBRCountdownViewExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BF2B10CB196C044800EEBCA2"
-            BuildableName = "TBRCountdownView.app"
-            BlueprintName = "TBRCountdownView"
-            ReferencedContainer = "container:TBRCountdownView.xcodeproj">
+            BuildableName = "TBRCountdownViewExample.app"
+            BlueprintName = "TBRCountdownViewExample"
+            ReferencedContainer = "container:TBRCountdownViewExample.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
